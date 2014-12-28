@@ -1,0 +1,21 @@
+{
+  "name": "kata-tennis",
+  "description": "Kata Tennis",
+  "version": "0.0.0",
+  "author": "Andreas",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "tdd",
+    "kata",
+    "javascript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "karma-jasmine": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma": "~0.10.1",
+    "karma-spec-reporter": "0.0.5"
+  }
+}
