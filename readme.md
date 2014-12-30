@@ -9,5 +9,8 @@ Kata Tennis _(Javascript)_
 __2014/12/30__  
 Kata Checkout _(Javascript)_
 
+__2014/12/30__  
+Kata Number To LCD _(Javascript)_
+
 ---
 Licensed under the MIT License
