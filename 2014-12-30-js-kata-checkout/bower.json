@@ -1,0 +1,11 @@
+{
+  "name": "kata-checkout",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ahelmberger/katas",
+  "private": true,
+  "dependencies": {
+    "traceur": "~0.0.74",
+    "es6-module-loader": "~0.10.0",
+    "system.js": "~0.10.0"
+  }
+}

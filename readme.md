@@ -6,5 +6,8 @@ Kata Roman Numerals _(Javascript)_
 __2014/09/16__  
 Kata Tennis _(Javascript)_
 
+__2014/12/30__  
+Kata Checkout _(Javascript)_
+
 ---
 Licensed under the MIT License
